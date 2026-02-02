@@ -11,19 +11,15 @@ Sebagai analis data, telah dihasilkan tujuan bisnis:
 4. Menentukan faktor yang paling signifikan dalam mempengaruhi rating pelanggan dan Memberikan rekomendasi perbaikan operasional pengiriman yang dapat meningkatkan rating pelanggan
 5. Dengan menjawab pernyataan ini, kami dapat memberikan wawasan yang dapat ditindaklanjuti yang akan membantu perusahaan meningkatkan kepuasan pelanggan.
 
-● ID: ID number of customers.
-● Warehouse block: The company has a big warehouse that is divided into blocks (A-E).
-● Mode of shipment: The company ships the products in multiple ways (Ship, Flight, and
-Road).
-● Customer care calls: The number of calls made from inquiries for inquiries of the
-shipment.
-● Customer rating: Rate from each customer. 1 is the lowest, and 5 is the highest.
-● Cost of the product: Cost of the product in US Dollars.
-● Prior purchases: The number of previous purchases.
-● Product importance: The company has categorized the product in various parameters
-(low, medium, high).
-● Gender: Male and female.
-● Discount offered: Discount offered on that specific product.
-● Weight in gms: The weight in grams.
-● Reached on time: 1 indicates that the product has not arrived on time, and 0 indicates the
-product has arrived on time.
+- ID: ID number of customers.
+- Warehouse block: The company has a big warehouse that is divided into blocks (A-E).
+- Mode of shipment: The company ships the products in multiple ways (Ship, Flight, and Road).
+- Customer care calls: The number of calls made from inquiries for inquiries of the shipment.
+- Customer rating: Rate from each customer. 1 is the lowest, and 5 is the highest.
+- Cost of the product: Cost of the product in US Dollars.
+- Prior purchases: The number of previous purchases.
+- Product importance: The company has categorized the product in various parameters (low, medium, high).
+- Gender: Male and female.
+- Discount offered: Discount offered on that specific product.
+- Weight in gms: The weight in grams.
+- Reached on time: 1 indicates that the product has not arrived on time, and 0 indicates the product has arrived on time.
