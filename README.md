@@ -1,4 +1,5 @@
 LATAR BELAKANG BISNIS
+
 Perusahaan mengkhususkan diri dalam penjualan e-commerce barang elektronik. Dikenal dengan berbagai macam produk berkualitas dengan harga kompetitif, perusahaan melayani pelanggan di berbagai wilayah. Untuk memastikan pengiriman yang efisien, perusahaan mengelola gudangnya sendiri dan menangani pengiriman secara langsung, menggunakan transportasi darat, laut, dan udara.
 Perusahaan mengalami penurunan rating kepuasan pelanggan dan perlu memahami bagaimana faktor-faktor operasional pengiriman mempengaruhi rating pelanggan. Rating pelanggan sangat penting untuk reputasi perusahaan dan bisnis berulang. Dengan menganalisis hubungan antara ketepatan waktu pengiriman, strategi diskon, frekuensi panggilan pelayanan pelanggan dengan rating pelanggan, perusahaan dapat mengidentifikasi area perbaikan dalam proses pengiriman yang akan langsung meningkatkan kepuasan pelanggan.
 
@@ -10,6 +11,9 @@ Sebagai analis data, telah dihasilkan tujuan bisnis:
 3. Mengidentifikasi hubungan antara frekuensi panggilan pelayanan pelanggan dengan rating pelanggan
 4. Menentukan faktor yang paling signifikan dalam mempengaruhi rating pelanggan dan Memberikan rekomendasi perbaikan operasional pengiriman yang dapat meningkatkan rating pelanggan
 5. Dengan menjawab pernyataan ini, kami dapat memberikan wawasan yang dapat ditindaklanjuti yang akan membantu perusahaan meningkatkan kepuasan pelanggan.
+
+
+Deskripsi Data :
 
 - ID: ID number of customers.
 - Warehouse block: The company has a big warehouse that is divided into blocks (A-E).
